@@ -26,5 +26,6 @@ author_profile: true
 
 ## Selected Work in Progress
 * "Sell Now or Later? Regret with Price Volatility."  with Yiwei Chen and Meng Li.
+* "Hybrid Employment Model for a Freight-Sharing Economy: A Reinforcement Learning Approach." with Guangwen Kong
 
 
