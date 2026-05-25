@@ -32,7 +32,7 @@ author_profile: true
   <li>Weng Jingjing (2025). <a href="https://pubsonline.informs.org/do/10.1287/orms.2025.04.05n/full/">Delta Air Lines Showcases Human-Centered AI Innovation at INFORMS Annual Meeting</a>, OR/MS Today.</li>
 </ol>
 
-<p style="text-align: center; font-size: 0.9em;">
+<p style="text-align: left; font-size: 0.9em;">
   <strong><em>   Undergraduate Research</em></strong>
 </p>
 <ol start="2">
