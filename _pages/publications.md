@@ -16,7 +16,7 @@ author_profile: true
    * Major Revision at *Management Science*. 
    * Best Paper Award Nomination, WITS, December 2023
 
-* "Information Granularity in Pandemic Risk Communication for Social Protection." with Guangwen Kong and Yang Zhang. 
+* "Information Granularity in Pandemic Risk Communication for Social Protection." with Guangwen Kong and Yang Zhang. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4914620)]
    * Under Review at *Manufacturing and Service Operations Management*.
   
 * "When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing." with Guangwen Kong, Xue Bai, and Industry Collaborator. 
