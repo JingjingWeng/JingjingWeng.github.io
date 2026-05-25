@@ -20,4 +20,18 @@ author_profile: true
   * POMS Annual Conference, Orlando,  May 2023
   * Philadelphia Operations and Technology Day, Philadelphia,  April 2023
   * POMS Annual Conference (Virtual), April 2022
+ 
+ * "Information Granularity in Pandemic Risk Communication for Social Protection."
+   * (Previous Title: Advice Provision in the Pandemic: The Impact of Information Granularity on Social Protection)
+   * POMS Annual Conference, Reno, May 2026
+   * Philadelphia Operations and Technology Day, Philadelphia,  November 2025
+   * Informs Annual Meeting, Atlanta, October 2025
+   * POMS Annual Conference, Atlanta, May 2025
+   * Purdue Operations Conference, West Lafayette, August 2024
+   * MSOM Conference, Minneapolis, July 2024
+   * INFORMS Conference On Service Science (ICSS), Macau (Hybrid), June 2024
+   * POMS Annual Conference, Minneapolis, April 2024 
+   * Network Science and Economics Annual Conference, Minneapolis, April 2024 
+   * Informs Annual Meeting, Phoenix, October 2023 
+   * POMS Annual Conference, Orlando,  May 2023
 
