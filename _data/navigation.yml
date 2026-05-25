@@ -22,6 +22,9 @@ main:
     
   - title: "Grants & Awards"
     url: /awards/ 
+    
+  - title: "Industry"
+    url: /industry/ 
 
   # - title: "CV"
   #   url: /cv/
