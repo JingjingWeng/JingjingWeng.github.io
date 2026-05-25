@@ -12,7 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ## PhD Research
-* "If the Blockchain Could Block: Strategic Blockchain Adoption by Manufacturer as Deterrence to the Selling of Counterfeits by Retailer." with Abhishek Roy and Subohda Kumar. Major Revision at *Management Science*. 
+* "If the Blockchain Could Block: Strategic Blockchain Adoption by Manufacturer as Deterrence to the Selling of Counterfeits by Retailer." with Abhishek Roy and Subohda Kumar.
+   * Major Revision at *Management Science*. 
    * Best Paper Award Nomination, WITS, December 2023
 
 * "Information Granularity in Pandemic Risk Communication for Social Protection." with Guangwen Kong and Yang Zhang. 
