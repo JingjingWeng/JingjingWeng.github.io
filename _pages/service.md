@@ -1,13 +1,11 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+layout: archive
+title: "Service"
+permalink: /service/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
-{% include toc %}
+{% include base_path %}
 
 ## Journal Reviewer
 * Production and Operations Management
@@ -37,5 +35,8 @@ redirect_from:
 * Selected Participant, To My Younger Self (TMYS) Mentorship Program, 2026
 * Selected Participant, POMS Doctoral Consortium, 2025, 2026
 * Membership: Informs, MSOM, POMS, DSI
+
+
+
     
 
