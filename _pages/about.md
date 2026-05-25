@@ -9,4 +9,4 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am Jingjing Weng, a PhD candidate of Operations and Supply Chain Management at Fox School of Business, the Temple University.
+I am Jingjing Weng, a final-year PhD candidate of Operations and Supply Chain Management at Fox School of Business, the Temple University.
