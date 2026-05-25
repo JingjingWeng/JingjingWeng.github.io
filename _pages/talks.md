@@ -35,11 +35,11 @@ author_profile: true
    * Informs Annual Meeting, Phoenix, October 2023 
    * POMS Annual Conference, Orlando,  May 2023
   
-  * "When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing."
+ * "When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing."
    * POMS Annual Conference, Reno, May 2026
    * 19th Annual Behavioral Operations Conference (BOC), Tempe, May 2026
 
-  * "Sell Now or Later? Regret with Price Volatility."
+ * "Sell Now or Later? Regret with Price Volatility."
    * POMS Annual Conference, Orlando,  May 2023
    * Informs Annual Meeting, Indianapolis, October 2022
 
