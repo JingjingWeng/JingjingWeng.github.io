@@ -7,28 +7,17 @@ author_profile: true
 
 {% include base_path %}
 ## Selected Invited Talks
-* "Human-Centric Perishable Inventory Management with AI Assistance."
-  * **POMS** Annual Meeting, Reno, May 2026. 
-  * **Annual Behavioral Operations Conference**, Tempe, May 2026. 
-  * **BizAI Conference** AI Applications in Business Research, Dallas, Mar 2026. 
-  * **INFORMS** Annual Meeting, Atlanta, Oct 2025. 
-  * **INFORMS MSOM** Conference, Minneapolis, 2024.
-  * **Early-Career Sustainable OM Workshop**, Amherst, Feb 2023.
-  * **INFORMS** Annual Meeting, Indianapolis, Oct 2022.  
+* "If the Blockchain Could Block: Strategic Blockchain Adoption by Manufacturer as Deterrence to the Selling of Counterfeits by Retailer."
+  * POMS Annual Conference, Reno, May 2026
+  * POMS Annual Conference, Atlanta, May 2025
+  * Temple University Graduate Symposium, Philadelphia, April 2025
+  * DSI Annual Conference, Phoenix, November 2024 (presented by coauthor)
+  * Informs Annual Meeting, Seattle, October 2024
+  * MSOM Conference, Minneapolis, July 2024
+  * POMS Annual Conference, Minneapolis, April 2024
+  * WITS Conference (Hybrid), Hyderabad, December 2023
+  * DSI Annual Conference, Atlanta, November 2023
+  * POMS Annual Conference, Orlando,  May 2023
+  * Philadelphia Operations and Technology Day, Philadelphia,  April 2023
+  * POMS Annual Conference (Virtual), April 2022
 
-* "Using Artificial Intelligence to Reduce Food Waste."
-  * **INFORMS** Annual Meeting, Seattle, Oct 2024.
-  * **Wharton Empirical Operations Management Workshop (EMPOM)**, Philadelphia, Oct 2024.
-  * **First OM Workshop on Food Waste Reduction**, Munich/Straubing, Sep 2024.
-  * **INFORMS** Annual Meeting, Phoenix, Oct 2023.
-  * **INFORMS MSOM** Conference, Montreal, Jun 2023. 
-  * **CHR Board** Annual Meeting, New York, Nov 2022. 
-  * **INFORMS** Annual Meeting, Anaheim, Oct 2021.
-  * **Cornell Johnson OTIM PhD Forum**, Cornell University, Dec 2020.
-
-* "Pricing and Capacity Allocation: Implications for Manufacturers with Product Sharing."
-  * **POMS-HK** International Conference, Hong Kong, Jan 2019.
-  * **POMS-HK** International Conference, Hong Kong, Jan 2018. 
-
-* "Interactions of Traceability and Reliability Optimization in a Competitive Supply Chain with Product Recall."
-  * **International Workshop on Behavioral Operations Management**, Guangzhou, Dec 2018. 
