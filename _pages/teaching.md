@@ -1,34 +1,29 @@
 ---
 layout: archive
-title: "Teaching & Service"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
-## Teaching 
-### Darla Moore School of Business, University of South Carolina
 
-### Instructor
-* MGSC 291 Applied Statistics for Business (Undergraduate Core), Fall 2025
-  
-### SC Johnson College of Business, Cornell Tech/Cornell University
-### Co-instructor
-* NCCW 5080 Managing Operations (Healthcare EMBA Core), Fall 2022 
-* NCCY 5080 Managing Operations (MBA Core), Fall 2021
+## Teaching Interests
+* Operations Management; Supply Chain Management; Business Analytics; Machine Learning; Inventory Management; Linear Programming; Data Analytics (R/Python)
+
+
+## Instructor of Record, Temple University
+* MSOM 3101 Operations Management (Undergraduate level), Fall 2024
+
+
      
-### Teaching Assistant
-* NBAY 6760 Decision Models (MBA Elective), Fall 2024
-* NCCE 5080 Managing Operations (EMBA Core), Spring 2022, Spring 2021
-* NCCY 5080 Operations Management (MBA Core), Fall 2020
+## Teaching Assistant, Temple/Wuhan University
+* MSOM 3101 Operations Management (Undergraduate level), Spring 2024
+* Macroeconomics (Undergraduate level), Spring 2019
+* Data Statistical Analysis Method (R language) (Undergraduate level), Fall 2018
+* Organizational Management (Undergraduate level), Spring 2018
 
-## Professional Service
-### External Service
-* Ad hoc Reviewer for Production & Operations Management, Omega, 2025-
-* Session Chair at POMS Annual Meeting, 2026
-* Session Chair at INFORMS Annual Meeting, 2024
-* Program Committee Member for INFORMS Data Science Workshop, 2024
-* Reviewer for INFORMS BOM Best Working Paper Competition, 2024
-  
-### Internal Service
-* Co-chair for Cornell Johnson OTIM PhD Forum, 2021-2022
+## Training, Temple University
+* Advanced Online Teaching Institute, Summer 2025
+* Online Teaching Certificate, Summer 2024
+* Fox Teaching Academy, Summer 2023
+
