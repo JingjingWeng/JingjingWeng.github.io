@@ -26,7 +26,7 @@ author_profile: true
 * Platform Economy, POMS Annual Conference 2023
 
 ## Community Service
-* INFORMS Student Support \& Engagement Subcommittee, 2026-2027
+* INFORMS Student Support & Engagement Subcommittee, 2026-2027
 * USA AI Olympiad (USAAIO) Grader, 2026
 * INFORMS NavigatORs (12 participants selected), 2025
 * POMS Program Assistant, 2022-2026
