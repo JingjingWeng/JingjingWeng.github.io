@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Grants & Awards"
+title: "Grants & Awards & Industry"
 permalink: /awards/
 author_profile: true
 ---
@@ -30,5 +30,9 @@ author_profile: true
 * National Scholarship of China, 2014
 
 
-
+## Industry Experience
+* Machine Learning Engineer Research Intern, *TikTok Inc.*, (2026)
+* Operations Optimization Algorithm Research Intern, *ByteDance Ltd. (TikTok E-Commerce)*, (2025)
+* Planning Manager, *Ping An Insurance (Group) Company of China, Ltd.*, (2022-2021)
+* Warehouse Manager, *Wenzhou Van Gogh Garment Co., Ltd.*, (2017)
     
