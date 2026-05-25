@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## PhD Research
+## Research
 * "If the Blockchain Could Block: Strategic Blockchain Adoption by Manufacturer as Deterrence to the Selling of Counterfeits by Retailer." with Abhishek Roy and Subohda Kumar.
    * Major Revision at *Management Science*. 
    * Best Paper Award Nomination, WITS, December 2023
