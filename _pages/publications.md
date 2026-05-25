@@ -44,6 +44,7 @@ author_profile: true
 
 ## Contribution to Other Publications
 * Miloš Fišar, Ben Greiner, Christoph Huber, Elena Katok, Ali I. Ozkes, and the Management Science Reproducibility Collaboration (2023). [Reproducibility in \emph{Management Science]{https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.03556}, Management Science, 70(3):1343-1356
+  * Role: Member of the Management Science Reproducibility Collaboration
 
 ## Research Experience
 * Research Assistant for Prof. Meng Li, May 2020-August 2021
