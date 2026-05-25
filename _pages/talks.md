@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## Selected Invited Talks
-* "If the Blockchain Could Block: Strategic Blockchain Adoption by Manufacturer as Deterrence to the Selling of Counterfeits by Retailer."
+* "**If the Blockchain Could Block: Strategic Blockchain Adoption by Manufacturer as Deterrence to the Selling of Counterfeits by Retailer.**"
   * POMS Annual Conference, Reno, May 2026
   * POMS Annual Conference, Atlanta, May 2025
   * Temple University Graduate Symposium, Philadelphia, April 2025
@@ -21,7 +21,7 @@ author_profile: true
   * Philadelphia Operations and Technology Day, Philadelphia,  April 2023
   * POMS Annual Conference (Virtual), April 2022
  
- * "Information Granularity in Pandemic Risk Communication for Social Protection."
+ * **"Information Granularity in Pandemic Risk Communication for Social Protection."**
    * (Previous Title: Advice Provision in the Pandemic: The Impact of Information Granularity on Social Protection)
    * POMS Annual Conference, Reno, May 2026
    * Philadelphia Operations and Technology Day, Philadelphia,  November 2025
@@ -35,11 +35,11 @@ author_profile: true
    * Informs Annual Meeting, Phoenix, October 2023 
    * POMS Annual Conference, Orlando,  May 2023
   
- * "When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing."
+ * **"When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing."**
    * POMS Annual Conference, Reno, May 2026
    * 19th Annual Behavioral Operations Conference (BOC), Tempe, May 2026
 
- * "Sell Now or Later? Regret with Price Volatility."
+ * **"Sell Now or Later? Regret with Price Volatility."**
    * POMS Annual Conference, Orlando,  May 2023
    * Informs Annual Meeting, Indianapolis, October 2022
 
