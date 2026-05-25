@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## JOb Market Paper
+## Job Market Paper
 * "When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing." with Guangwen Kong, Xue Bai, and Industry Collaborator.
   * Job Market Paper 
   * Human-algorithm interaction in vehicle routing: behavioral identification, model formulation, algorithm design, and field experiment
