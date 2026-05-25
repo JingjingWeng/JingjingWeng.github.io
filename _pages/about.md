@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am Jingjing Weng. Welcome to my personal website!
 
-I am a final-year PhD candidate in Operations and Supply Chain Management at Fox School of Business, Temple University.  I am fortunate to be co-advised by Professor Guangwen Kong and Professor Subodha Kumar.
+I am a final-year PhD candidate in Operations and Supply Chain Management at Fox School of Business, Temple University.  I am fortunate to be co-advised by Professor [[Guangwen Kong](https://sites.google.com/site/guangwek/home)] and Professor [[Subodha Kumar](https://sites.temple.edu/subodha/)].
 
 My research interest broadly centers on behavior-aware operations management and data-driven optimization.
  
