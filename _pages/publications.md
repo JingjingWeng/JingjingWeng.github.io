@@ -12,18 +12,14 @@ author_profile: true
 {% include base_path %}
 
 ## PhD Research
-* "Using Artificial Intelligence to Reduce Food Waste." with Elena Belavina and Karan Girotra. Major Revision at *Management Science*. [[Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4826777)]
-   * Finalist, 2025 INFORMS Service Science Best Paper Competition - Socially Responsible Research Track. 
-   * Finalist, 2024 INFORMS Technology, Innovation Management, and Entrepreneurship Section's (TIMES) Best Working Paper Competition.
-   * 2024 Climate Solutions Fund's Award Recipient ($111,114).
+* "If the Blockchain Could Block: Strategic Blockchain Adoption by Manufacturer as Deterrence to the Selling of Counterfeits by Retailer." with Abhishek Roy and Subohda Kumar. Major Revision at *Management Science*. 
+   * Best Paper Award Nomination, WITS, December 2023
 
-* "Human-Centric Perishable Inventory Management with AI Assistance." with Meng Qi, Elena Belavina and Karan Girotra. In *NeurIPS 2025 Workshop MLxOR: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making*. [[Paper Link](https://openreview.net/forum?id=zxaMZHF1JW)]
-   * Spotlight Talk at NeurIPS 2025 Workshop MLxOR.
+* "Information Granularity in Pandemic Risk Communication for Social Protection." with Guangwen Kong and Yang Zhang. 
+   * Under Review at *Manufacturing and Service Operations Management*.
   
-* "Human-LLM Collaborative Optimization for High-Stakes Data-Driven Decision-Making." with Meng Qi, Elena Belavina and Karan Girotra. Work in progress. 
+* "When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing." with Guangwen Kong, Xue Bai, and Industry Collaborator. 
+  * Job Market Paper
+  * Human-algorithm interaction in vehicle routing: behavioral identification, model formulation, algorithm design, and field experiment
 
-## Undergraduate Research
-* "Pricing and Capacity Allocation: Implications for Manufacturers with Product Sharing." with Bin Dai. *Naval Research Logistics* 2020, 67(3): 201-222. [[Document](https://YuNu1210.github.io/files/NRL_ProductSharing.pdf)]
-
-* "Interactions of Traceability and Reliability Optimization in a Competitive Supply Chain with Product Recall." with Bin Dai, Xia Xie, and Jianbin Li. *European Journal of Operational Research* 2021, 290(1): 116-131. [[Document](https://YuNu1210.github.io/files/EJOR_ProductRecall.pdf)]
 
