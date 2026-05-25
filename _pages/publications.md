@@ -19,7 +19,8 @@ author_profile: true
 * "Information Granularity in Pandemic Risk Communication for Social Protection." with Guangwen Kong and Yang Zhang. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4914620)]
    * Under Review at *Manufacturing and Service Operations Management*.
   
-* "When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing." with Guangwen Kong, Xue Bai, and Industry Collaborator. 
+* "When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing." with Guangwen Kong, Xue Bai, and Industry Collaborator.
+  * Job Market Paper 
   * Human-algorithm interaction in vehicle routing: behavioral identification, model formulation, algorithm design, and field experiment
 
 
