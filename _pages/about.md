@@ -13,6 +13,8 @@ I am a final-year PhD candidate in Operations and Supply Chain Management at Fox
 
 My research interest broadly centers on behavior-aware operations management and data-driven decision-making.
 
+**I am in the 2026-2027 Academic Job Market.**
+
 <br>
 
 ## Education
