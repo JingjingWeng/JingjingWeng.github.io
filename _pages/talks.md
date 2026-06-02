@@ -21,8 +21,8 @@ author_profile: true
   * Philadelphia Operations and Technology Day, Philadelphia,  April 2023
   * POMS Annual Conference (Virtual), April 2022
  
- * **"Information Granularity in Pandemic Risk Communication for Social Protection."**
-   * (Previous Title: Advice Provision in the Pandemic: The Impact of Information Granularity on Social Protection)
+ * **"Information Granularity in Pandemic Risk Communication for Social Protection."**<br>
+(Previous Title: Advice Provision in the Pandemic: The Impact of Information Granularity on Social Protection)
    * POMS Annual Conference, Reno, May 2026
    * Philadelphia Operations and Technology Day, Philadelphia,  November 2025
    * Informs Annual Meeting, Atlanta, October 2025
