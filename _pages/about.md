@@ -17,8 +17,9 @@ My research focuses on behavior-aware operations management and data-driven deci
 
 <br>
 
+<div style="display: none;">
 ## Education
 * Ph.D. in Operations and Supply Chain Management, Temple University (2021–Present)
 * M.S. in Management Science & Engineering, Wuhan University (2017-2020)
 * B.S. in Logistics Management, Zhengzhou University (2013–2017)
-
+</div>
