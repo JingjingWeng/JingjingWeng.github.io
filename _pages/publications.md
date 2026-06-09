@@ -32,6 +32,7 @@ author_profile: true
   <li>Weng Jingjing (2025). <a href="https://pubsonline.informs.org/do/10.1287/orms.2025.04.05n/full/">Delta Air Lines Showcases Human-Centered AI Innovation at INFORMS Annual Meeting</a>, OR/MS Today.</li>
 </ol>
 
+{% comment %}
 <p style="text-align: left; font-size: 0.9em;">
   <strong><em>   Undergraduate Research</em></strong>
 </p>
@@ -40,12 +41,16 @@ author_profile: true
   <li>Dui Hongyan, Weng Jingjing (2017). <a href="https://www.ingentaconnect.com/content/ben/eng/2017/00000011/00000003/art00010">Optimization Method of the Equipment Reliability Testing</a>. Recent Patents on Engineering, 11 (3): 223-226. (In English)</li>
   <li>Weng Jingjing, Dui Hongyan (2016). <a href="http://www.jsjxmhw.com/Html/ArticleView.asp?ID=125&SortID=63">The Method of Inventory Control in Time-varying Demand Based on the S-M Algorithm</a>. Machine Design and Manufacture Engineering, 45(11): 67-71. (In Chinese)</li>
 </ol>
+{% endcomment %}
 
 
 ## Other Publications
-* Miloš Fišar, Ben Greiner, Christoph Huber, Elena Katok, Ali I. Ozkes, and the Management Science Reproducibility Collaboration (2023). [Reproducibility in *Management Science*](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.03556), Management Science, 70(3):1343-1356
+1. Miloš Fišar, Ben Greiner, Christoph Huber, Elena Katok, Ali I. Ozkes, and the Management Science Reproducibility Collaboration (2023). [Reproducibility in *Management Science*](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.03556), Management Science, 70(3):1343-1356
   * Note: Member of the Management Science Reproducibility Collaboration
 
+
+{% comment %}
 ## Research Experience
 * Research Assistant for Prof. Meng Li, May 2020-August 2021
   * Rutgers University–Camden (Remote Work)
+{% endcomment %}
