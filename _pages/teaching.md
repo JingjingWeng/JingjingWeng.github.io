@@ -16,13 +16,15 @@ author_profile: true
 
 
      
-## Teaching Assistant, Temple/Wuhan University
+## Teaching Assistant, Temple University
 * MSOM 3101 Operations Management (Undergraduate level), Spring 2024
+
+## Teaching Assistant, Wuhan University
 * Macroeconomics (Undergraduate level), Spring 2019
 * Data Statistical Analysis Method (R language) (Undergraduate level), Fall 2018
 * Organizational Management (Undergraduate level), Spring 2018
 
-## Training, Temple University
+## Instructor Training, Temple University
 * Advanced Online Teaching Institute, Summer 2025
 * Online Teaching Certificate, Summer 2024
 * Fox Teaching Academy, Summer 2023
