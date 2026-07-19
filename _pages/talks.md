@@ -23,6 +23,7 @@ author_profile: true
  
  * **"Information Granularity in Pandemic Risk Communication for Social Protection."**<br>
 (Previous Title: Advice Provision in the Pandemic: The Impact of Information Granularity on Social Protection)
+   * MSOM Conference (poster), Boston, July 2026
    * POMS Annual Conference, Reno, May 2026
    * Philadelphia Operations and Technology Day, Philadelphia,  November 2025
    * Informs Annual Meeting, Atlanta, October 2025
@@ -36,6 +37,8 @@ author_profile: true
    * POMS Annual Conference, Orlando,  May 2023
   
  * **"When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing."**
+   * DSI Annual Conference, San Francisco, November 2026 (scheduled)
+   * Informs Annual Meeting, San Francisco, November 2026 (scheduled)
    * POMS Annual Conference, Reno, May 2026
    * 19th Annual Behavioral Operations Conference (BOC), Tempe, May 2026
 
