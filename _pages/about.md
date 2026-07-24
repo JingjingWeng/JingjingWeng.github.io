@@ -13,7 +13,7 @@ I am a final-year PhD candidate in Operations and Supply Chain Management at Fox
 
 My research focuses on behavior-aware operations management and data-driven decision-making. I study how strategic human responses affect operational decisions, using tools from game theory, optimization, empirical analysis, and, when appropriate, machine learning.
 
-**I am in the 2026-2027 Academic Job Market.**
+**I am on the 2026-2027 Academic Job Market.**
 
 <br>
 
