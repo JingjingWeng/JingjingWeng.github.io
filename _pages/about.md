@@ -23,3 +23,8 @@ My research focuses on behavior-aware operations management and data-driven deci
 * M.S. in Management Science & Engineering, Wuhan University (2017-2020)
 * B.S. in Logistics Management, Zhengzhou University (2013–2017)
 </div>
+
+## Upcoming Talks
+* [Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/)<br>
+November 1 - 4, 2026<br>
+San Francisco
