@@ -28,7 +28,7 @@ author_profile: true
 ## Community Service
 * INFORMS Student Support & Engagement Subcommittee, 2026-2027
 * USA AI Olympiad (USAAIO) Grader, 2026
-* INFORMS NavigatORs (12 participants selected), 2025
+* INFORMS NavigatORs, 2025 (12 selected), 2026 (10 selected)
 * POMS Program Assistant, 2022-2026
 
 ## Professional Development
