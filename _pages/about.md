@@ -23,6 +23,9 @@ My research focuses on behavior-aware operations management and data-driven deci
 </div>
 
 ## Upcoming Talks
+* [INFORMS Telecommunications and Network Analytics Conference](https://sites.psu.edu/informstna/)<br>
+October 14 - 16, 2026<br>
+Online
 * [Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/)<br>
 November 1 - 4, 2026<br>
 San Francisco
