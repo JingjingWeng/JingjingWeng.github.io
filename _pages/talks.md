@@ -12,7 +12,7 @@ author_profile: true
   * POMS Annual Conference, Atlanta, May 2025
   * Temple University Graduate Symposium, Philadelphia, April 2025
   * DSI Annual Conference, Phoenix, November 2024 (presented by coauthor)
-  * Informs Annual Meeting, Seattle, October 2024
+  * INFORMS Annual Meeting, Seattle, October 2024
   * MSOM Conference, Minneapolis, July 2024
   * POMS Annual Conference, Minneapolis, April 2024
   * WITS Conference (Hybrid), Hyderabad, December 2023
@@ -26,23 +26,24 @@ author_profile: true
    * MSOM Conference (poster), Boston, July 2026
    * POMS Annual Conference, Reno, May 2026
    * Philadelphia Operations and Technology Day, Philadelphia,  November 2025
-   * Informs Annual Meeting, Atlanta, October 2025
+   * INFORMS Annual Meeting, Atlanta, October 2025
    * POMS Annual Conference, Atlanta, May 2025
    * Purdue Operations Conference, West Lafayette, August 2024
    * MSOM Conference, Minneapolis, July 2024
    * INFORMS Conference On Service Science (ICSS), Macau (Hybrid), June 2024
    * POMS Annual Conference, Minneapolis, April 2024 
    * Network Science and Economics Annual Conference, Minneapolis, April 2024 
-   * Informs Annual Meeting, Phoenix, October 2023 
+   * INFORMS Annual Meeting, Phoenix, October 2023 
    * POMS Annual Conference, Orlando,  May 2023
   
  * **"When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing."**
    * DSI Annual Conference, San Francisco, November 2026 (scheduled)
-   * Informs Annual Meeting, San Francisco, November 2026 (scheduled)
+   * INFORMS Annual Meeting, San Francisco, November 2026 (scheduled)
+   * INFORMS Telecommunications and Network Analytics Conference, October 2026 (scheduled)
    * POMS Annual Conference, Reno, May 2026
    * 19th Annual Behavioral Operations Conference (BOC), Tempe, May 2026
 
  * **"Sell Now or Later? Regret with Price Volatility."**
    * POMS Annual Conference, Orlando,  May 2023
-   * Informs Annual Meeting, Indianapolis, October 2022
+   * INFORMS Annual Meeting, Indianapolis, October 2022
 
