@@ -35,7 +35,7 @@ author_profile: true
 * Selected Participant, To My Younger Self (TMYS) Mentorship Program, 2026
 * Selected Participant, POMS Doctoral Consortium, 2025, 2026
 * Research Assistant for Prof. Meng Li, Rutgers University–Camden, NJ, 2020-2021
-* Membership: Informs, MSOM, POMS, DSI
+* Membership: INFORMS, MSOM, POMS, DSI
 
 
 
