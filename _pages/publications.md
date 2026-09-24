@@ -30,7 +30,7 @@ author_profile: true
 
 ## Publication
 <ol start="1" reversed>
-  <li>Weng Jingjing (2025). <a href="https://pubsonline.informs.org/do/10.1287/orms.2025.04.05n/full/">Delta Air Lines Showcases Human-Centered AI Innovation at INFORMS Annual Meeting</a>, INFORMS OR/MS Today.</li>
+  <li>Jingjing Weng (2025). <a href="https://pubsonline.informs.org/do/10.1287/orms.2025.04.05n/full/">Delta Air Lines Showcases Human-Centered AI Innovation at INFORMS Annual Meeting</a>, INFORMS OR/MS Today.</li>
 </ol>
 
 
@@ -39,8 +39,8 @@ author_profile: true
 </p>
 
 <ol start="2">
-  <li>Dui Hongyan, Weng Jingjing (2017). <a href="https://www.ingentaconnect.com/content/ben/eng/2017/00000011/00000003/art00010">Optimization Method of the Equipment Reliability Testing</a>. Recent Patents on Engineering, 11 (3): 223-226. (In English)</li>
-  <li>Weng Jingjing, Dui Hongyan (2016). <a href="http://www.jsjxmhw.com/Html/ArticleView.asp?ID=125&SortID=63">The Method of Inventory Control in Time-varying Demand Based on the S-M Algorithm</a>. Machine Design and Manufacture Engineering, 45(11): 67-71. (In Chinese)</li>
+  <li>Hongyan Dui, Jingjing Weng (2017). <a href="https://www.ingentaconnect.com/content/ben/eng/2017/00000011/00000003/art00010">Optimization Method of the Equipment Reliability Testing</a>. Recent Patents on Engineering, 11 (3): 223-226. (In English)</li>
+  <li>Jingjing Weng, Hongyan Dui (2016). <a href="http://www.jsjxmhw.com/Html/ArticleView.asp?ID=125&SortID=63">The Method of Inventory Control in Time-varying Demand Based on the S-M Algorithm</a>. Machine Design and Manufacture Engineering, 45(11): 67-71. (In Chinese)</li>
 </ol>
 {% comment %}
 {% endcomment %}
