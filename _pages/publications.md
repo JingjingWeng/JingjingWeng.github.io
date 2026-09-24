@@ -30,7 +30,7 @@ author_profile: true
 
 ## Publication
 <ol start="1" reversed>
-  <li>Weng Jingjing (2025). <a href="https://pubsonline.informs.org/do/10.1287/orms.2025.04.05n/full/">Delta Air Lines Showcases Human-Centered AI Innovation at INFORMS Annual Meeting</a>, OR/MS Today.</li>
+  <li>Weng Jingjing (2025). <a href="https://pubsonline.informs.org/do/10.1287/orms.2025.04.05n/full/">Delta Air Lines Showcases Human-Centered AI Innovation at INFORMS Annual Meeting</a>, INFORMS OR/MS Today.</li>
 </ol>
 
 
