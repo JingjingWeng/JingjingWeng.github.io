@@ -39,7 +39,7 @@ author_profile: true
  * **"When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing."**
    * DSI Annual Conference, San Francisco, November 2026 (scheduled)
    * INFORMS Annual Meeting, San Francisco, November 2026 (scheduled)
-   * INFORMS Telecommunications and Network Analytics Conference, October 2026 (scheduled)
+   * INFORMS Telecommunications and Network Analytics Conference, Online, October 2026
    * POMS Annual Conference, Reno, May 2026
    * 19th Annual Behavioral Operations Conference (BOC), Tempe, May 2026
 
