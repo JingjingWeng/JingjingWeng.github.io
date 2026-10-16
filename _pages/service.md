@@ -17,6 +17,7 @@ author_profile: true
 * ACM SIGMIS Computers and People Research 2024 
 
 ## Session Chair
+* Empirical Research in ISOM, POMS Annual Conference 2027 (Scheduled)
 * AI Human Collaborations in Service Operations, POMS Annual Conference 2026
 * Social Media, Platform, and Causal Inference, POMS Annual Conference 2026
 * Emerging Technologies in Retail, POMS Annual Conference 2025 
