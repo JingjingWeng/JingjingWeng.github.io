@@ -21,7 +21,7 @@ author_profile: true
    * Best Paper Award Nomination, Workshop on Information Technologies and Systems (**WITS**), December 2023
 
 * "Information Granularity in Pandemic Risk Communication for Social Protection," with Guangwen Kong and Yang Zhang. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4914620)]
-   * Under Review at *Manufacturing and Service Operations Management*.
+   * Major Revision at *Manufacturing and Service Operations Management*.
 
 ## Selected Work in Progress
 * "Sell Now or Later? Regret with Price Volatility,"  with Yiwei Chen and Meng Li.
