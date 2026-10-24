@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-## Grants  (Total: $8720)
+## Grants  (Total: $22,220)
 * $13,500 Doctoral Dissertation Completion Grant, Temple University, 2027
 * $1000 2nd Research Advancement and Impact Seedfunding Symposium Award, 2025
 * $1500 1st Research Advancement and Impact Seedfunding Symposium Award, 2024
