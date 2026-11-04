@@ -29,7 +29,7 @@ author_profile: true
 * "Hybrid Employment Model for a Freight-Sharing Economy: A Reinforcement Learning Approach," with Guangwen Kong
 
 ## Publication
-<ol start="1" reversed>
+<ol start="1">
   <li>Jingjing Weng (2026). <a href="https://pubsonline.informs.org/do/10.1287/orms.2026.03.28n/full/">The Model Was Never the Problem</a>, INFORMS OR/MS Today.</li>
   <li>Jingjing Weng (2025). <a href="https://pubsonline.informs.org/do/10.1287/orms.2025.04.05n/full/">Delta Air Lines Showcases Human-Centered AI Innovation at INFORMS Annual Meeting</a>, INFORMS OR/MS Today.</li>
 </ol>
