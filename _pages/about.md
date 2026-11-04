@@ -23,9 +23,6 @@ My research focuses on behavior-aware operations management and data-driven deci
 </div>
 
 ## Upcoming Talks
-* [Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/)<br>
-November 1 - 4, 2026<br>
-San Francisco
 * [DSI Annual Conference](https://decisionsciences.org/conference/2026-annual-conference/2026-annual-conference-main-page/)<br>
 November 21 – 23, 2026<br>
 San Francisco
