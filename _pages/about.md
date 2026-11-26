@@ -22,7 +22,9 @@ My research focuses on behavior-aware operations management and data-driven deci
 * B.S. in Logistics Management, Zhengzhou University (2013–2017)
 </div>
 
+<div style="display: none;">
 ## Upcoming Talks
 * [DSI Annual Conference](https://decisionsciences.org/conference/2026-annual-conference/2026-annual-conference-main-page/)<br>
 November 21 – 23, 2026<br>
 San Francisco
+</div>
