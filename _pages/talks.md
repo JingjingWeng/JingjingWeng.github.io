@@ -37,7 +37,8 @@ author_profile: true
    * POMS Annual Conference, Orlando,  May 2023
   
  * **"When Human Preferences Meet Routing Algorithms: Mitigating Dispatcher Deviation in Vehicle Routing."**
-   * DSI Annual Conference, San Francisco, November 2026 (scheduled)
+   * POMS Annual Conference, Orlando, April 2026 (scheduled)
+   * DSI Annual Conference, San Francisco, November 2026 
    * INFORMS Annual Meeting, San Francisco, November 2026
    * INFORMS Telecommunications and Network Analytics Conference, Online, October 2026
    * POMS Annual Conference, Reno, May 2026
